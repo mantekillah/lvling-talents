@@ -1,6 +1,7 @@
 # LvLing Talents
 
-## SHAMAN
+<details>
+  <summary><b>SHAMAN</b></summary>
 
 -Mejora-
 
@@ -61,3 +62,5 @@
 76: Enfoque elemental (Elemental Focus) – 1/1
 
 77 – 80: Reverberación (Reverberation) – 4/5
+
+</details>
