@@ -21,9 +21,8 @@
 </details>
 
 <details>
-  <summary><div color=00ff00><b>SHAMAN TALENTS</b></summary>
-</div>
-<p align=center>- Mejora (Enhancement) -</p>
+  <summary><b>⭐SHAMAN TALENTS</b></summary>
+  <p align=center>- Mejora (Enhancement) -</p>
 
 10 – 14: Conocimiento ancestral (Ancestral Knowledge) – 5/5
 
