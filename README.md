@@ -1,9 +1,14 @@
 # LvLing Talents
 
 <details>
+  <summary><b>PALADIN</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
   <summary><b>SHAMAN</b></summary>
   
-<p align=center>-Mejora (Enhancement)-</p>
+<p align=center>- Mejora (Enhancement) -</p>
 
 10 – 14: Conocimiento ancestral (Ancestral Knowledge) – 5/5
 
@@ -49,7 +54,7 @@
 
 60: Espíritu feral (Feral Spirit) – 1/1
 
--Elemental-
+<p align=center>- Elemental -</p>
 
 61 – 65: Conmoción (Concussion) – 5/5
 
