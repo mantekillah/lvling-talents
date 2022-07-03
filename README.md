@@ -1,12 +1,27 @@
 # LvLing Talents
 
 <details>
-  <summary><b>PALADIN</b></summary>
+  <summary><b>WARRIOR TALENTS</b></summary>
   <p align=center>- Represion (Retribution) -</p>
 </details>
 
 <details>
-  <summary><b>SHAMAN</b></summary>
+  <summary><b>PALADIN TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
+  <summary><b>DK TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
+  <summary><b>HUNTER TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
+  <summary><b>SHAMAN TALENTS</b></summary>
   
 <p align=center>- Mejora (Enhancement) -</p>
 
@@ -68,4 +83,29 @@
 
 77 – 80: Reverberación (Reverberation) – 4/5
 
+</details>
+
+<details>
+  <summary><b>ROGUE TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
+  <summary><b>DRUID TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
+  <summary><b>WARLOCK TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
+  <summary><b>MAGE TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
+</details>
+
+<details>
+  <summary><b>PRIEST TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
 </details>
