@@ -3,7 +3,7 @@
 <details>
   <summary><b>SHAMAN</b></summary>
 
--Mejora-
+-Mejora (Enhancement)-
 
 10 – 14: Conocimiento ancestral (Ancestral Knowledge) – 5/5
 
