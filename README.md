@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary><b><p color="green">SHAMAN TALENTS</p></b></summary>
+  <summary><b><p color=00ff00>SHAMAN TALENTS</p></b></summary>
   
 <p align=center>- Mejora (Enhancement) -</p>
 
