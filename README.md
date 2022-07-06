@@ -90,8 +90,10 @@
 </details>
 
 <details>
-  <summary><b>DRUID TALENTS</b></summary>
-  <p align=center>- Represion (Retribution) -</p>
+  <summary><b>⭐DRUID TALENTS</b></summary>
+  <p align=center>- Feral -</p>
+  <p align=center>- Restauración (Restoration) -</p>
+  <p align=center>- Feral -</p>
 </details>
 
 <details>
