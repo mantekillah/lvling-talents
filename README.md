@@ -91,7 +91,7 @@
 
 <details>
   <summary><b>⭐DRUID TALENTS</b></summary>
-  <p align=center>- Feral -</p>
+  <p align=center>- Combate feral (Feral) -</p>
   
 10 – 14: Ferocidad (Ferocity) – 5/5
 
@@ -141,7 +141,7 @@
 
 68 – 69: Maestro en cambio de forma (Master Shapeshifter) – 2/2
 
-  <p align=center>- Feral -</p>
+  <p align=center>- Combate feral (Feral) -</p>
 
 70 – 72: Destrozar mejorado (Improved Mangle) – 3/3
 
