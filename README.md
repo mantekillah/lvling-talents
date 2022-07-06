@@ -191,10 +191,13 @@
 
   <p align=center>- Combate feral (Feral) -</p>
 
-70 – 72: Destrozar mejorado (Improved Mangle) – 3/3
+70–72: Destrozar mejorado (Improved Mangle) - 3/3
+
 73–75: Instintos depredadores (Predatory Instincts) - 3/3
-76–79: Desgarrar y romper (Rend and Tear) – 4/5
-80: Rabia (Berserk) – 1/1
+
+76–79: Desgarrar y romper (Rend and Tear) - 4/5
+
+80: Rabia (Berserk) - 1/1
 
 </details>
 
