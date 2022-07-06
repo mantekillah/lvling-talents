@@ -85,11 +85,6 @@
 </details>
 
 <details>
-  <summary><b>ROGUE TALENTS</b></summary>
-  <p align=center>- Represion (Retribution) -</p>
-</details>
-
-<details>
   <summary><b>⭐DRUID TALENTS (Feral)</b></summary>
   <p align=center>- Combate feral (Feral) -</p>
   
@@ -151,6 +146,11 @@
 
 80: Rabia (Berserk) – 1/1
 
+</details>
+
+<details>
+  <summary><b>ROGUE TALENTS</b></summary>
+  <p align=center>- Represion (Retribution) -</p>
 </details>
 
 <details>
