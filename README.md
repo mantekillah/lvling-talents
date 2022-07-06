@@ -2,58 +2,58 @@
 
 <details>
   <summary><b>WARRIOR TALENTS</b></summary>
-  <p align=center>- Represion (Retribution) -</p>
+  <p align=center>- x (y) -</p>
 </details>
 
 <details>
-  <summary><b>PALADIN TALENTS</b></summary>
-  <p align=center>- Represion (Retribution) -</p>
+  <summary><b>⭐PALADIN TALENTS (Retri)</b></summary>
+  <p align=center>- Reprensión (Retribution) -</p>
 
-10 - 14: (Benediction) - 5/5
+10 - 14: Oración (Benediction) - 5/5
 
-15 - 16: (Improved Judgement) - 2/2
+15 - 16: Sentencias mejoradas (Improved Judgement) - 2/2
 
-17 - 19: (Heart of the Crusader) - 3/3
+17 - 19: Corazón del cruzado (Heart of the Crusader) - 3/3
 
-20: (Seal of Command) - 1/1
+20: Sello de orden (Seal of Command) - 1/1
 
-21 - 22: (Pursuit of Justice) - 2/2
+21 - 22: Búsqueda de justicia (Pursuit of Justice) - 2/2
 
-23 - 27: 5/5 Conviction) - 5/5
+23 - 27: Convicción (Conviction) - 5/5
 
-28 - 30: 3/3 Crusade) - 3/3
+28 - 30: Cruzada (Crusade) - 3/3
 
-31 - 33: 3/3 Two-Handed Weapon Specialization) - 3/3
+31 - 33: Especialización en armas de dos manos (Two-Handed Weapon Specialization) - 3/3
 
-34-36: 3/3 Sanctified Seals) - 3/3
+34-36: (Sanctified Seals) - 3/3
 
-37-39: 3/3 Vengeance) - 3/3
+37-39: Venganza (Vengeance) - 3/3
 
-40: 1/1 Repentance) - 1/1
+40: Arrepentimiento (Repentance) - 1/1
 
-41 - 43: 3/3 Judgements of the Wise) - 3/3
+41 - 43: (Judgements of the Wise) - 3/3
 
-44 - 45: 2/2 The Art of War) - 2/2
+44 - 45: El arte de la guerra (The Art of War) - 2/2
 
 46 - 49: (Fanaticism) - 4/5 (només 4 punts)
 
-50: 1/1 Crusader Strike)
+50: (Crusader Strike) - 1/1
 
-51: 5/5 Fanaticism)
+51: (Fanaticism) - 5/5
 
-52 - 54: 3/3 Sheath of Light)
+52 - 54: (Sheath of Light) - 3/3
 
-55 - 59: 5/5 Righteous Vengeance)
+55 - 59: (Righteous Vengeance) - 5/5
 
-60: 1/1 Divine Storm)
+60: (Divine Storm) - 1/1
 
-61 - 62: 2/2 Sanctified Wrath)
+61 - 62: (Sanctified Wrath) - 2/2
 
-63 - 65: 3/3 Swift Retribution)
+63 - 65: (Swift Retribution) - 3/3
 
-66 - 70: 5/5 Divine Strength)
+66 - 70: (Divine Strength) - 5/5
 
-71: 1/1 Sanctified Retribution)
+71: (Sanctified Retribution) - 1/1
 
 72-73: (Improved Blessing of Might) - 2/2
 
