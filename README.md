@@ -129,11 +129,11 @@
 
 50: Ira del chamán (Shamanistic Rage) – 1/1
 
-51: Choque estático (Static Shock) – 3/3 (el punt que faltava)
+51 – 53: Presura mental (Mental Quickness) – 3/3
 
-52 – 54: Presura mental (Mental Quickness) – 3/3
+  <p align=center>- Restauración (Restoration) -</p>
 
-55 – 59: Arma vorágine (Maelstrom Weapon) – 5/5
+54 – 59: Arma vorágine (Maelstrom Weapon) – 5/5
 
 60: Espíritu feral (Feral Spirit) – 1/1
 
@@ -141,16 +141,16 @@
 
 66 – 68: Devastación elemental (Elemental Devastation) – 3/3
 
-69 – 70: Amparo elemental (Elemental Warding) – 2/3 (només 2 punts)
+69: Amparo elemental (Elemental Warding) – 2/3 (només 2 punts)
 
-71 – 75: Furia elemental (Elemental Fury) – 5/5
+  <p align=center>- Feral -</p>
+
+70 – 75: Furia elemental (Elemental Fury) – 5/5
 
 76: Enfoque elemental (Elemental Focus) – 1/1
 
 77 – 80: Reverberación (Reverberation) – 4/5
-  
-  <p align=center>- Restauración (Restoration) -</p>
-  <p align=center>- Feral -</p>
+
 </details>
 
 <details>
