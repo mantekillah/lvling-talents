@@ -131,23 +131,25 @@
 
   <p align=center>- Restauración (Restoration) -</p>
 
-54 – 59: Arma vorágine (Maelstrom Weapon) – 5/5
+54 – 58: (Furor) – 5/5
 
-60: Espíritu feral (Feral Spirit) – 1/1
+59 – 63: (Naturalist) – 5/5
 
-61 – 65: Conmoción (Concussion) – 5/5
+64: (Omen of Clarity) – 1/1
 
-66 – 68: Devastación elemental (Elemental Devastation) – 3/3
+65 – 67: (Natural Shapeshifter) – 3/3
 
-69: Amparo elemental (Elemental Warding) – 2/3 (només 2 punts)
+68 – 69: (Master Shapeshifter) – 2/2
 
   <p align=center>- Feral -</p>
 
-70 – 75: Furia elemental (Elemental Fury) – 5/5
+70 – 72: (Improved Mangle) – 3/3
 
-76: Enfoque elemental (Elemental Focus) – 1/1
+73 – 75: (Predatory Instincts) - 3/3
 
-77 – 80: Reverberación (Reverberation) – 4/5
+76 – 79: (Rend and Tear) – 4/5
+
+80: (Berserk) – 1/1
 
 </details>
 
