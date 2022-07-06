@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary><b>⭐SHAMAN TALENTS</b></summary>
+  <summary><b>⭐SHAMAN TALENTS (Mejora)</b></summary>
   <p align=center>- Mejora (Enhancement) -</p>
 
 10 – 14: Conocimiento ancestral (Ancestral Knowledge) – 5/5
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-  <summary><b>⭐DRUID TALENTS</b></summary>
+  <summary><b>⭐DRUID TALENTS (Feral)</b></summary>
   <p align=center>- Combate feral (Feral) -</p>
   
 10 – 14: Ferocidad (Ferocity) – 5/5
