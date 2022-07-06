@@ -93,63 +93,63 @@
   <summary><b>⭐DRUID TALENTS</b></summary>
   <p align=center>- Feral -</p>
   
-10 – 14: (Ferocity) – 5/5
+10 – 14: Ferocidad (Ferocity) – 5/5
 
-15 – 16: (Savage Fury) – 2/2
+15 – 16: Furia cruel (Savage Fury) – 2/2
 
-17 - 19: (Feral Instinct) – 3/3
+17 - 19: Instinto feral (Feral Instinct) – 3/3
 
-20 – 21: (Feral Swiftness) – 2/2
+20 – 21: Presteza feral (Feral Swiftness) – 2/2
 
-22 – 24: (Sharpened Claws) – 3/3
+22 – 24: Garras afiladas (Sharpened Claws) – 3/3
 
-25 – 26: (Primal Fury) – 2/2
+25 – 26: Furia primigenia (Primal Fury) – 2/2
 
-27 – 29: (Predatory Strikes) – 3/3
+27 – 29: Golpes depredadores (Predatory Strikes) – 3/3
 
-30: (Feral Charge) – 1/1
+30: Carga feral (Feral Charge) – 1/1
 
-31 – 32: (Primal Precision) – 2/2 O (Brutal Impact) – 2/2
+31 – 32: Precisión primigenia (Primal Precision) – 2/2
 
-33 – 34: (Shredding Attacks) – 2/2
+33 – 34: Ataques trituradores (Shredding Attacks) – 2/2
 
-35 – 39: (Heart of the Wild) – 5/5
+35 – 39: Corazón de lo Salvaje (Heart of the Wild) – 5/5
 
-40: (Leader of the Pack) – 1/1
+40: Líder de la manada (Leader of the Pack) – 1/1
 
-41 – 42: (Improved Leader of the Pack) – 2/2
+41 – 42: Líder de la manada mejorado (Improved Leader of the Pack) – 2/2
 
-43 – 45: (Survival of the Fittest) – 3/3
+43 – 45: Supervivencia del más fuerte (Survival of the Fittest) – 3/3
 
-46 – 48: (Infected Wounds) – 3/3
+46 – 48: Heridas infectadas (Infected Wounds) – 3/3
 
-49: (Survival Instincts) – 1/1
+49: Instintos de supervivencia (Survival Instincts) – 1/1
 
-50: (Mangle) – 1/1
+50: Destrozar (Mangle) – 1/1
 
-51 – 53: (King of the Jungle) – 3/3
+51 – 53: Rey de la selva (King of the Jungle) – 3/3
 
   <p align=center>- Restauración (Restoration) -</p>
 
-54 – 58: (Furor) – 5/5
+54 – 58: Furor – 5/5
 
-59 – 63: (Naturalist) – 5/5
+59 – 63: Naturalista (Naturalist) – 5/5
 
-64: (Omen of Clarity) – 1/1
+64: Augurio de claridad (Omen of Clarity) – 1/1
 
-65 – 67: (Natural Shapeshifter) – 3/3
+65 – 67: Cambio de forma natural (Natural Shapeshifter) – 3/3
 
-68 – 69: (Master Shapeshifter) – 2/2
+68 – 69: Maestro en cambio de forma (Master Shapeshifter) – 2/2
 
   <p align=center>- Feral -</p>
 
-70 – 72: (Improved Mangle) – 3/3
+70 – 72: Destrozar mejorado (Improved Mangle) – 3/3
 
-73 – 75: (Predatory Instincts) - 3/3
+73 – 75: Instintos depredadores (Predatory Instincts) - 3/3
 
-76 – 79: (Rend and Tear) – 4/5
+76 – 79: Desgarrar y romper (Rend and Tear) – 4/5
 
-80: (Berserk) – 1/1
+80: Rabia (Berserk) – 1/1
 
 </details>
 
