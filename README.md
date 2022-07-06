@@ -8,6 +8,59 @@
 <details>
   <summary><b>PALADIN TALENTS</b></summary>
   <p align=center>- Represion (Retribution) -</p>
+
+10 - 14: (Benediction) - 5/5
+
+15 - 16: (Improved Judgement) - 2/2
+
+17 - 19: (Heart of the Crusader) - 3/3
+
+20: (Seal of Command) - 1/1
+
+21 - 22: (Pursuit of Justice) - 2/2
+
+23 - 27: 5/5 Conviction) - 5/5
+
+28 - 30: 3/3 Crusade) - 3/3
+
+31 - 33: 3/3 Two-Handed Weapon Specialization) - 3/3
+
+34-36: 3/3 Sanctified Seals) - 3/3
+
+37-39: 3/3 Vengeance) - 3/3
+
+40: 1/1 Repentance) - 1/1
+
+41 - 43: 3/3 Judgements of the Wise) - 3/3
+
+44 - 45: 2/2 The Art of War) - 2/2
+
+46 - 49: (Fanaticism) - 4/5 (només 4 punts)
+
+50: 1/1 Crusader Strike)
+
+51: 5/5 Fanaticism)
+
+52 - 54: 3/3 Sheath of Light)
+
+55 - 59: 5/5 Righteous Vengeance)
+
+60: 1/1 Divine Storm)
+
+61 - 62: 2/2 Sanctified Wrath)
+
+63 - 65: 3/3 Swift Retribution)
+
+66 - 70: 5/5 Divine Strength)
+
+71: 1/1 Sanctified Retribution)
+
+72-73: (Improved Blessing of Might) - 2/2
+
+74-75: (Improved Retribution Aura) - 2/2
+
+76 - 80: (Spirtiual Focus) - 5/5
+  
 </details>
 
 <details>
