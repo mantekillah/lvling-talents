@@ -93,43 +93,41 @@
   <summary><b>⭐DRUID TALENTS</b></summary>
   <p align=center>- Feral -</p>
   
-10 – 14: Conocimiento ancestral (Ancestral Knowledge) – 5/5
+10 – 14: (Ferocity) – 5/5
 
-15 – 19: Golpes de trueno (Thundering Strikes) – 5/5
+15 – 16: (Savage Fury) – 2/2
 
-20: Enfoque chamanístico (Shamanistic Focus) – 1/1
+17 - 19: (Feral Instinct) – 3/3
 
-21 – 22: Lobo fantasmal mejorado (Improved Ghost Wolf) – 2/2
+20 – 21: (Feral Swiftness) – 2/2
 
-23 – 24: Armas elementales (Elemental Weapons) – 2/3 (només 2 punts)
+22 – 24: (Sharpened Claws) – 3/3
 
-25 – 29: Aluvión (Flurry) – 5/5
+25 – 26: (Primal Fury) – 2/2
 
-30: Armas de espíritu (Spirit Weapons) – 1/1
+27 – 29: (Predatory Strikes) – 3/3
 
-31 – 33: Maña mental (Mental Dexterity) – 3/3
+30: (Feral Charge) – 1/1
 
-34: Armas elementales (Elemental Weapons) – 3/3 (el punt que faltava)
+31 – 32: (Primal Precision) – 2/2 O (Brutal Impact) – 2/2
 
-35 – 37: Ira desatada (Unleashed Rage) – 3/3
+33 – 34: (Shredding Attacks) – 2/2
 
-38 – 39: Maestría en armas (Weapon Mastery) – 2/3 (només 2 punts)
+35 – 39: (Heart of the Wild) – 5/5
 
-40: Golpe de tormenta (Stormstrike) – 1/1
+40: (Leader of the Pack) – 1/1
 
-41: Doble empuñadura (Dual Wield) – 1/1
+41 – 42: (Improved Leader of the Pack) – 2/2
 
-42 – 44: Especialización en doble empuñadura (Dual Wield Specialization) – 3/3
+43 – 45: (Survival of the Fittest) – 3/3
 
-45: Latigazo de lava (Lava Lash) – 1/1
+46 – 48: (Infected Wounds) – 3/3
 
-46 – 47: Golpe de tormenta mejorado (Improved Stormstrike) – 2/2
+49: (Survival Instincts) – 1/1
 
-48 – 49: Choque estático (Static Shock) – 2/3 (només 2 punts)
+50: (Mangle) – 1/1
 
-50: Ira del chamán (Shamanistic Rage) – 1/1
-
-51 – 53: Presura mental (Mental Quickness) – 3/3
+51 – 53: (King of the Jungle) – 3/3
 
   <p align=center>- Restauración (Restoration) -</p>
 
